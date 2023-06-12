@@ -1,0 +1,2 @@
+#!/bin/bash
+yt "A" "Z" | tr "c" "e"
